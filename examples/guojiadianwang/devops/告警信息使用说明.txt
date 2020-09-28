@@ -1,0 +1,28 @@
+
+项目环境
+- python3.6以上
+- requests
+
+
+项目文件
+utils/
+    1.chaojiying.py：网站登录验证码验证第三方API
+    2.dataAanlysis.py:excel信息整理&信息发送
+    3.dingdingRobotInfo.json：钉钉Robot配置
+    4.logCls.py:log日志模块
+    5.loginFile.py:登录模块
+    6.登录账号密码配置文件
+
+devopsPro.py
+    1.项目主程序文件
+    2.
+
+
+
+转移项目需要配置的信息
+
+devopsPro.py
+    1.cookieFile/dataFile（代码9&10行）修改对应文件cookies.txt和datas的路径
+    2.loginFile.py（代码9行）loginInfo.txt文件路径
+
+

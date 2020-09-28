@@ -1,0 +1,58 @@
+{
+  "乌鲁木齐供电公司": [
+    "SEC8e2605fa4302f5cd5ad1e143dba20827472e6a9dfdffbf8129c98435e2b2475d",
+    "https://oapi.dingtalk.com/robot/send?access_token=67bc9a6d3cf0402445030b8bebe8d51e43cb7d982b70f12641fd7c91a957821b"
+  ],
+  "国网昌吉供电公司": [
+    "SECd03f27be54f5f3446198df7393c212e0d9a1650201d8731a65f97ecf7fdf4bf2",
+    "https://oapi.dingtalk.com/robot/send?access_token=0496ea75a3c27c1e9edfb303b2a4a28849b5bdbd5a243fb8587e2590e6412e28"
+  ],
+  "国网吐鲁番供电公司": [
+    "SEC3fc567bd26913e70b7c7f1f75380631d4daff11ac2d6977d0505be8624d9f673",
+    "https://oapi.dingtalk.com/robot/send?access_token=8693bebc9b452a0c7f8c0fbfad35de901191115bae169ab6ad129bad6ff1e120"
+  ],
+  "国网新疆电力公司奎屯...": [
+    "SECd9ce6a04ca704d974102a32231a6ff23090f68edb72d34b3797578dc6e0b2066",
+    "https://oapi.dingtalk.com/robot/send?access_token=3ab644968deb7d13aa6c41db221e109288982c5f7873004908acbf39acfb233e"
+  ],
+  "国网博尔塔拉供电公司": [
+    "SECabc7d57d342522c693e48b04114e4d2c67ef7107f04f380fb6e3ba7bcfc30309",
+    "https://oapi.dingtalk.com/robot/send?access_token=d39c71c6b0636c36097bde5bffa95ea46e11674e99fc25297e95683eb741ea33"
+  ],
+  "国网哈密供电公司": [
+    "SECed98d48342046916bf585681ffe1f76b0d5d2007546097aa73b58d65827ba8e4",
+    "https://oapi.dingtalk.com/robot/send?access_token=629669cf140eb33b42b562ce7c02e0dc03f4f2adf873acb4c04009ee93bebaae"
+  ],
+  "国网新疆塔城供电有限...": [
+    "SEC24849b0341e53154d1f182ffa47a09a740789da3d057e9289530269d97490865",
+    "https://oapi.dingtalk.com/robot/send?access_token=2807ad4e3dd4277fef998505767334d67322757cb7a48cd8823d7b67de589920+"
+  ],
+  "国网新疆阿勒泰供电有...": [
+    "SEC2e55303bf6b360a18ea54607553d4fc3a0ef2dcc4e3e9caf36210fe34c72c0f2",
+    "https://oapi.dingtalk.com/robot/send?access_token=a25bf39c8830397e73581663ca2530d88063ecf8131f45c7f2ad352c42bd5097"
+  ],
+  "国网新疆电力公司伊犁...": [
+    "SEC2ebdaeff5a54fbfa94fe2d3531926aff2ce5d5ec7d1a97af24d2e4a984c3e44d",
+    "https://oapi.dingtalk.com/robot/send?access_token=8dafa5e1038606f59fcc52469e243c667fa2cafaebe017b2756b5c946930c92a"
+  ],
+  "国网新疆巴州供电有限...": [
+    "SEC10aa29f302a2d031b49ac95b7d7b2231569a3d272611558d9d5351dcac31f237",
+    "https://oapi.dingtalk.com/robot/send?access_token=453fba2b909b6223e9120be6f76614bf209da2cfd39945bb7ea7ba5312d91e26"
+  ],
+  "国网和田供电公司": [
+    "SECa6d48164f847f9dc7491751e12c4b8f8a67e6acba7870dca7c6c31f6b0c01275",
+    "https://oapi.dingtalk.com/robot/send?access_token=d713e5ce99efe7263fe677dab3cf3892d5f69c132adff6411a851c6fafde93b8"
+  ],
+  "国网新疆阿克苏供电有...": [
+    "SEC957b9e1c2d707305a0c922d9606b7e81003f4ca3307a71db9dd318f0de401d14",
+    "https://oapi.dingtalk.com/robot/send?access_token=5ed4505fe4a62c52a2c102bf172bf1492ea123e76576e41fdbaeaff4c203eb66"
+  ],
+  "国网新疆疆南供电有限...": [
+    "SEC9d7ddd1a4770e0476f390a2f3ba79086e51779406c315b0963b64bb540c3209e",
+    "https://oapi.dingtalk.com/robot/send?access_token=ffd7443f773e87a967bbe77c28bdbccb3d15675018d049d7b92ea6a2ddd179b4"
+  ],
+  "外部人员单点登录组织": [
+    "",
+    ""
+  ]
+}

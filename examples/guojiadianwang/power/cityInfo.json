@@ -1,0 +1,795 @@
+{
+    "乌鲁木齐供电公司": {
+        "头屯河": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=67bc9a6d3cf0402445030b8bebe8d51e43cb7d982b70f12641fd7c91a957821b",
+            "sign": "SEC8e2605fa4302f5cd5ad1e143dba20827472e6a9dfdffbf8129c98435e2b2475d"
+        },
+        "头屯河区": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=67bc9a6d3cf0402445030b8bebe8d51e43cb7d982b70f12641fd7c91a957821b",
+            "sign": "SEC8e2605fa4302f5cd5ad1e143dba20827472e6a9dfdffbf8129c98435e2b2475d"
+        },
+        "天山区": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=67bc9a6d3cf0402445030b8bebe8d51e43cb7d982b70f12641fd7c91a957821b",
+            "sign": "SEC8e2605fa4302f5cd5ad1e143dba20827472e6a9dfdffbf8129c98435e2b2475d"
+        },
+        "高新区": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=67bc9a6d3cf0402445030b8bebe8d51e43cb7d982b70f12641fd7c91a957821b",
+            "sign": "SEC8e2605fa4302f5cd5ad1e143dba20827472e6a9dfdffbf8129c98435e2b2475d"
+        },
+        "沙依巴克区": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=67bc9a6d3cf0402445030b8bebe8d51e43cb7d982b70f12641fd7c91a957821b",
+            "sign": "SEC8e2605fa4302f5cd5ad1e143dba20827472e6a9dfdffbf8129c98435e2b2475d"
+        },
+        "新市区": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=67bc9a6d3cf0402445030b8bebe8d51e43cb7d982b70f12641fd7c91a957821b",
+            "sign": "SEC8e2605fa4302f5cd5ad1e143dba20827472e6a9dfdffbf8129c98435e2b2475d"
+        },
+        "水磨沟区": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=67bc9a6d3cf0402445030b8bebe8d51e43cb7d982b70f12641fd7c91a957821b",
+            "sign": "SEC8e2605fa4302f5cd5ad1e143dba20827472e6a9dfdffbf8129c98435e2b2475d"
+        },
+        "五家渠市": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=0496ea75a3c27c1e9edfb303b2a4a28849b5bdbd5a243fb8587e2590e6412e28",
+            "sign": "SECd03f27be54f5f3446198df7393c212e0d9a1650201d8731a65f97ecf7fdf4bf2",
+            "oth": "对应昌吉群"
+        },
+        "五家渠": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=0496ea75a3c27c1e9edfb303b2a4a28849b5bdbd5a243fb8587e2590e6412e28",
+            "sign": "SECd03f27be54f5f3446198df7393c212e0d9a1650201d8731a65f97ecf7fdf4bf2",
+            "oth": "对应昌吉群"
+        },
+        "米东区": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=67bc9a6d3cf0402445030b8bebe8d51e43cb7d982b70f12641fd7c91a957821b",
+            "sign": "SEC8e2605fa4302f5cd5ad1e143dba20827472e6a9dfdffbf8129c98435e2b2475d"
+        },
+        "乌鲁木齐县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=67bc9a6d3cf0402445030b8bebe8d51e43cb7d982b70f12641fd7c91a957821b",
+            "sign": "SEC8e2605fa4302f5cd5ad1e143dba20827472e6a9dfdffbf8129c98435e2b2475d"
+        },
+        "客户服务中心": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=67bc9a6d3cf0402445030b8bebe8d51e43cb7d982b70f12641fd7c91a957821b",
+            "sign": "SEC8e2605fa4302f5cd5ad1e143dba20827472e6a9dfdffbf8129c98435e2b2475d"
+        },
+        "原三部": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=67bc9a6d3cf0402445030b8bebe8d51e43cb7d982b70f12641fd7c91a957821b",
+            "sign": "SEC8e2605fa4302f5cd5ad1e143dba20827472e6a9dfdffbf8129c98435e2b2475d"
+        },
+        "原米泉": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=67bc9a6d3cf0402445030b8bebe8d51e43cb7d982b70f12641fd7c91a957821b",
+            "sign": "SEC8e2605fa4302f5cd5ad1e143dba20827472e6a9dfdffbf8129c98435e2b2475d"
+        }
+    },
+    "国网昌吉供电公司": {
+        "玛纳斯县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=0496ea75a3c27c1e9edfb303b2a4a28849b5bdbd5a243fb8587e2590e6412e28",
+            "sign": "SECd03f27be54f5f3446198df7393c212e0d9a1650201d8731a65f97ecf7fdf4bf2"
+        },
+        "呼图壁县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=0496ea75a3c27c1e9edfb303b2a4a28849b5bdbd5a243fb8587e2590e6412e28",
+            "sign": "SECd03f27be54f5f3446198df7393c212e0d9a1650201d8731a65f97ecf7fdf4bf2"
+        },
+        "芳草湖": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=0496ea75a3c27c1e9edfb303b2a4a28849b5bdbd5a243fb8587e2590e6412e28",
+            "sign": "SECd03f27be54f5f3446198df7393c212e0d9a1650201d8731a65f97ecf7fdf4bf2"
+        },
+        "新湖": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=0496ea75a3c27c1e9edfb303b2a4a28849b5bdbd5a243fb8587e2590e6412e28",
+            "sign": "SECd03f27be54f5f3446198df7393c212e0d9a1650201d8731a65f97ecf7fdf4bf2"
+        },
+        "硫磺沟": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=0496ea75a3c27c1e9edfb303b2a4a28849b5bdbd5a243fb8587e2590e6412e28",
+            "sign": "SECd03f27be54f5f3446198df7393c212e0d9a1650201d8731a65f97ecf7fdf4bf2"
+        },
+        "阜康市": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=0496ea75a3c27c1e9edfb303b2a4a28849b5bdbd5a243fb8587e2590e6412e28",
+            "sign": "SECd03f27be54f5f3446198df7393c212e0d9a1650201d8731a65f97ecf7fdf4bf2"
+        },
+        "吉木萨尔县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=0496ea75a3c27c1e9edfb303b2a4a28849b5bdbd5a243fb8587e2590e6412e28",
+            "sign": "SECd03f27be54f5f3446198df7393c212e0d9a1650201d8731a65f97ecf7fdf4bf2"
+        },
+        "奇台县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=0496ea75a3c27c1e9edfb303b2a4a28849b5bdbd5a243fb8587e2590e6412e28",
+            "sign": "SECd03f27be54f5f3446198df7393c212e0d9a1650201d8731a65f97ecf7fdf4bf2"
+        },
+        "木垒县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=0496ea75a3c27c1e9edfb303b2a4a28849b5bdbd5a243fb8587e2590e6412e28",
+            "sign": "SECd03f27be54f5f3446198df7393c212e0d9a1650201d8731a65f97ecf7fdf4bf2"
+        },
+        "昌吉市": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=0496ea75a3c27c1e9edfb303b2a4a28849b5bdbd5a243fb8587e2590e6412e28",
+            "sign": "SECd03f27be54f5f3446198df7393c212e0d9a1650201d8731a65f97ecf7fdf4bf2"
+        }
+    },
+    "国网吐鲁番供电公司": {
+        "高昌区": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=8693bebc9b452a0c7f8c0fbfad35de901191115bae169ab6ad129bad6ff1e120",
+            "sign": "SEC3fc567bd26913e70b7c7f1f75380631d4daff11ac2d6977d0505be8624d9f673"
+        },
+        "鄯善县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=8693bebc9b452a0c7f8c0fbfad35de901191115bae169ab6ad129bad6ff1e120",
+            "sign": "SEC3fc567bd26913e70b7c7f1f75380631d4daff11ac2d6977d0505be8624d9f673"
+        },
+        "托克逊县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=8693bebc9b452a0c7f8c0fbfad35de901191115bae169ab6ad129bad6ff1e120",
+            "sign": "SEC3fc567bd26913e70b7c7f1f75380631d4daff11ac2d6977d0505be8624d9f673"
+        }
+    },
+    "国网新疆电力公司奎屯...": {
+        "奎屯市": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=3ab644968deb7d13aa6c41db221e109288982c5f7873004908acbf39acfb233e",
+            "sign": "SECd9ce6a04ca704d974102a32231a6ff23090f68edb72d34b3797578dc6e0b2066"
+        },
+        "独山子区": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=bd204e97ce18419b23dba8a29cffbd3970ad81ebfa7cae3128cc77c7d5698ab9",
+            "sign": "SEC16c7ff2b3e08fc031a707dbbb099dddb52f43c28b72a8bc86eb4bc277a31966e",
+            "oth": "对应克拉玛依群"
+        },
+        "沙湾县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=2807ad4e3dd4277fef998505767334d67322757cb7a48cd8823d7b67de589920+",
+            "sign": "SEC24849b0341e53154d1f182ffa47a09a740789da3d057e9289530269d97490865",
+            "oth": "对应塔城群"
+        },
+        "乌苏市": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=2807ad4e3dd4277fef998505767334d67322757cb7a48cd8823d7b67de589920+",
+            "sign": "SEC24849b0341e53154d1f182ffa47a09a740789da3d057e9289530269d97490865",
+            "oth": "对应塔城群"
+        }
+    },
+    "国网博尔塔拉供电公司": {
+        "博乐市": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=d39c71c6b0636c36097bde5bffa95ea46e11674e99fc25297e95683eb741ea33",
+            "sign": "SECabc7d57d342522c693e48b04114e4d2c67ef7107f04f380fb6e3ba7bcfc30309"
+        },
+        "精河县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=d39c71c6b0636c36097bde5bffa95ea46e11674e99fc25297e95683eb741ea33",
+            "sign": "SECabc7d57d342522c693e48b04114e4d2c67ef7107f04f380fb6e3ba7bcfc30309"
+        },
+        "温泉县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=d39c71c6b0636c36097bde5bffa95ea46e11674e99fc25297e95683eb741ea33",
+            "sign": "SECabc7d57d342522c693e48b04114e4d2c67ef7107f04f380fb6e3ba7bcfc30309"
+        },
+        "阿拉山口市": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=d39c71c6b0636c36097bde5bffa95ea46e11674e99fc25297e95683eb741ea33",
+            "sign": "SECabc7d57d342522c693e48b04114e4d2c67ef7107f04f380fb6e3ba7bcfc30309"
+        }
+    },
+    "国网哈密供电公司": {
+        "伊州区": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=629669cf140eb33b42b562ce7c02e0dc03f4f2adf873acb4c04009ee93bebaae",
+            "sign": "SECed98d48342046916bf585681ffe1f76b0d5d2007546097aa73b58d65827ba8e4"
+        },
+        "巴里坤县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=629669cf140eb33b42b562ce7c02e0dc03f4f2adf873acb4c04009ee93bebaae",
+            "sign": "SECed98d48342046916bf585681ffe1f76b0d5d2007546097aa73b58d65827ba8e4"
+        },
+        "伊吾县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=629669cf140eb33b42b562ce7c02e0dc03f4f2adf873acb4c04009ee93bebaae",
+            "sign": "SECed98d48342046916bf585681ffe1f76b0d5d2007546097aa73b58d65827ba8e4"
+        }
+    },
+    "国网新疆塔城供电有限...": {
+        "塔城市": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=2807ad4e3dd4277fef998505767334d67322757cb7a48cd8823d7b67de589920+",
+            "sign": "SEC24849b0341e53154d1f182ffa47a09a740789da3d057e9289530269d97490865"
+        },
+        "和布克赛尔蒙古自治县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=2807ad4e3dd4277fef998505767334d67322757cb7a48cd8823d7b67de589920+",
+            "sign": "SEC24849b0341e53154d1f182ffa47a09a740789da3d057e9289530269d97490865"
+        },
+        "额敏县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=2807ad4e3dd4277fef998505767334d67322757cb7a48cd8823d7b67de589920+",
+            "sign": "SEC24849b0341e53154d1f182ffa47a09a740789da3d057e9289530269d97490865"
+        },
+        "托里县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=2807ad4e3dd4277fef998505767334d67322757cb7a48cd8823d7b67de589920+",
+            "sign": "SEC24849b0341e53154d1f182ffa47a09a740789da3d057e9289530269d97490865"
+        },
+        "裕民县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=2807ad4e3dd4277fef998505767334d67322757cb7a48cd8823d7b67de589920+",
+            "sign": "SEC24849b0341e53154d1f182ffa47a09a740789da3d057e9289530269d97490865"
+        },
+        "和布克赛尔县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=2807ad4e3dd4277fef998505767334d67322757cb7a48cd8823d7b67de589920+",
+            "sign": "SEC24849b0341e53154d1f182ffa47a09a740789da3d057e9289530269d97490865"
+        }
+    },
+    "国网新疆阿勒泰供电有...": {
+        "阿勒泰市": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=a25bf39c8830397e73581663ca2530d88063ecf8131f45c7f2ad352c42bd5097",
+            "sign": "SEC2e55303bf6b360a18ea54607553d4fc3a0ef2dcc4e3e9caf36210fe34c72c0f2"
+        },
+        "哈巴河县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=a25bf39c8830397e73581663ca2530d88063ecf8131f45c7f2ad352c42bd5097",
+            "sign": "SEC2e55303bf6b360a18ea54607553d4fc3a0ef2dcc4e3e9caf36210fe34c72c0f2"
+        },
+        "吉木乃县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=a25bf39c8830397e73581663ca2530d88063ecf8131f45c7f2ad352c42bd5097",
+            "sign": "SEC2e55303bf6b360a18ea54607553d4fc3a0ef2dcc4e3e9caf36210fe34c72c0f2"
+        },
+        "福海县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=a25bf39c8830397e73581663ca2530d88063ecf8131f45c7f2ad352c42bd5097",
+            "sign": "SEC2e55303bf6b360a18ea54607553d4fc3a0ef2dcc4e3e9caf36210fe34c72c0f2"
+        },
+        "青河县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=a25bf39c8830397e73581663ca2530d88063ecf8131f45c7f2ad352c42bd5097",
+            "sign": "SEC2e55303bf6b360a18ea54607553d4fc3a0ef2dcc4e3e9caf36210fe34c72c0f2"
+        },
+        "富蕴县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=a25bf39c8830397e73581663ca2530d88063ecf8131f45c7f2ad352c42bd5097",
+            "sign": "SEC2e55303bf6b360a18ea54607553d4fc3a0ef2dcc4e3e9caf36210fe34c72c0f2"
+        },
+        "北屯市": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=a25bf39c8830397e73581663ca2530d88063ecf8131f45c7f2ad352c42bd5097",
+            "sign": "SEC2e55303bf6b360a18ea54607553d4fc3a0ef2dcc4e3e9caf36210fe34c72c0f2"
+        },
+        "布尔津县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=a25bf39c8830397e73581663ca2530d88063ecf8131f45c7f2ad352c42bd5097",
+            "sign": "SEC2e55303bf6b360a18ea54607553d4fc3a0ef2dcc4e3e9caf36210fe34c72c0f2"
+        }
+    },
+    "国网新疆电力公司伊犁...": {
+        "伊宁市": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=8dafa5e1038606f59fcc52469e243c667fa2cafaebe017b2756b5c946930c92a",
+            "sign": "SEC2ebdaeff5a54fbfa94fe2d3531926aff2ce5d5ec7d1a97af24d2e4a984c3e44d"
+        },
+        "察县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=8dafa5e1038606f59fcc52469e243c667fa2cafaebe017b2756b5c946930c92a",
+            "sign": "SEC2ebdaeff5a54fbfa94fe2d3531926aff2ce5d5ec7d1a97af24d2e4a984c3e44d"
+        },
+        "霍城县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=8dafa5e1038606f59fcc52469e243c667fa2cafaebe017b2756b5c946930c92a",
+            "sign": "SEC2ebdaeff5a54fbfa94fe2d3531926aff2ce5d5ec7d1a97af24d2e4a984c3e44d"
+        },
+        "霍尔果斯市": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=8dafa5e1038606f59fcc52469e243c667fa2cafaebe017b2756b5c946930c92a",
+            "sign": "SEC2ebdaeff5a54fbfa94fe2d3531926aff2ce5d5ec7d1a97af24d2e4a984c3e44d"
+        },
+        "新源县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=8dafa5e1038606f59fcc52469e243c667fa2cafaebe017b2756b5c946930c92a",
+            "sign": "SEC2ebdaeff5a54fbfa94fe2d3531926aff2ce5d5ec7d1a97af24d2e4a984c3e44d"
+        },
+        "特克斯县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=8dafa5e1038606f59fcc52469e243c667fa2cafaebe017b2756b5c946930c92a",
+            "sign": "SEC2ebdaeff5a54fbfa94fe2d3531926aff2ce5d5ec7d1a97af24d2e4a984c3e44d"
+        },
+        "尼勒克县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=8dafa5e1038606f59fcc52469e243c667fa2cafaebe017b2756b5c946930c92a",
+            "sign": "SEC2ebdaeff5a54fbfa94fe2d3531926aff2ce5d5ec7d1a97af24d2e4a984c3e44d"
+        },
+        "伊宁县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=8dafa5e1038606f59fcc52469e243c667fa2cafaebe017b2756b5c946930c92a",
+            "sign": "SEC2ebdaeff5a54fbfa94fe2d3531926aff2ce5d5ec7d1a97af24d2e4a984c3e44d"
+        },
+        "巩留县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=8dafa5e1038606f59fcc52469e243c667fa2cafaebe017b2756b5c946930c92a",
+            "sign": "SEC2ebdaeff5a54fbfa94fe2d3531926aff2ce5d5ec7d1a97af24d2e4a984c3e44d"
+        },
+        "察布查尔县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=8dafa5e1038606f59fcc52469e243c667fa2cafaebe017b2756b5c946930c92a",
+            "sign": "SEC2ebdaeff5a54fbfa94fe2d3531926aff2ce5d5ec7d1a97af24d2e4a984c3e44d"
+        },
+        "昭苏县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=8dafa5e1038606f59fcc52469e243c667fa2cafaebe017b2756b5c946930c92a",
+            "sign": "SEC2ebdaeff5a54fbfa94fe2d3531926aff2ce5d5ec7d1a97af24d2e4a984c3e44d"
+        }
+    },
+    "国网新疆巴州供电有限...": {
+        "库尔勒市": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=453fba2b909b6223e9120be6f76614bf209da2cfd39945bb7ea7ba5312d91e26",
+            "sign": "SEC10aa29f302a2d031b49ac95b7d7b2231569a3d272611558d9d5351dcac31f237"
+        },
+        "尉犁县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=453fba2b909b6223e9120be6f76614bf209da2cfd39945bb7ea7ba5312d91e26",
+            "sign": "SEC10aa29f302a2d031b49ac95b7d7b2231569a3d272611558d9d5351dcac31f237"
+        },
+        "轮台县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=453fba2b909b6223e9120be6f76614bf209da2cfd39945bb7ea7ba5312d91e26",
+            "sign": "SEC10aa29f302a2d031b49ac95b7d7b2231569a3d272611558d9d5351dcac31f237"
+        },
+        "和静县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=453fba2b909b6223e9120be6f76614bf209da2cfd39945bb7ea7ba5312d91e26",
+            "sign": "SEC10aa29f302a2d031b49ac95b7d7b2231569a3d272611558d9d5351dcac31f237"
+        },
+        "焉耆县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=453fba2b909b6223e9120be6f76614bf209da2cfd39945bb7ea7ba5312d91e26",
+            "sign": "SEC10aa29f302a2d031b49ac95b7d7b2231569a3d272611558d9d5351dcac31f237"
+        },
+        "博湖县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=453fba2b909b6223e9120be6f76614bf209da2cfd39945bb7ea7ba5312d91e26",
+            "sign": "SEC10aa29f302a2d031b49ac95b7d7b2231569a3d272611558d9d5351dcac31f237"
+        },
+        "和硕县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=453fba2b909b6223e9120be6f76614bf209da2cfd39945bb7ea7ba5312d91e26",
+            "sign": "SEC10aa29f302a2d031b49ac95b7d7b2231569a3d272611558d9d5351dcac31f237"
+        },
+        "若羌县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=453fba2b909b6223e9120be6f76614bf209da2cfd39945bb7ea7ba5312d91e26",
+            "sign": "SEC10aa29f302a2d031b49ac95b7d7b2231569a3d272611558d9d5351dcac31f237"
+        },
+        "且末县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=453fba2b909b6223e9120be6f76614bf209da2cfd39945bb7ea7ba5312d91e26",
+            "sign": "SEC10aa29f302a2d031b49ac95b7d7b2231569a3d272611558d9d5351dcac31f237"
+        }
+    },
+    "国网和田供电公司": {
+        "和田市": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=d713e5ce99efe7263fe677dab3cf3892d5f69c132adff6411a851c6fafde93b8",
+            "sign": "SECa6d48164f847f9dc7491751e12c4b8f8a67e6acba7870dca7c6c31f6b0c01275"
+        },
+        "皮山县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=d713e5ce99efe7263fe677dab3cf3892d5f69c132adff6411a851c6fafde93b8",
+            "sign": "SECa6d48164f847f9dc7491751e12c4b8f8a67e6acba7870dca7c6c31f6b0c01275"
+        },
+        "民丰县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=d713e5ce99efe7263fe677dab3cf3892d5f69c132adff6411a851c6fafde93b8",
+            "sign": "SECa6d48164f847f9dc7491751e12c4b8f8a67e6acba7870dca7c6c31f6b0c01275"
+        },
+        "于田县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=d713e5ce99efe7263fe677dab3cf3892d5f69c132adff6411a851c6fafde93b8",
+            "sign": "SECa6d48164f847f9dc7491751e12c4b8f8a67e6acba7870dca7c6c31f6b0c01275"
+        },
+        "和田县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=d713e5ce99efe7263fe677dab3cf3892d5f69c132adff6411a851c6fafde93b8",
+            "sign": "SECa6d48164f847f9dc7491751e12c4b8f8a67e6acba7870dca7c6c31f6b0c01275"
+        },
+        "墨玉县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=d713e5ce99efe7263fe677dab3cf3892d5f69c132adff6411a851c6fafde93b8",
+            "sign": "SECa6d48164f847f9dc7491751e12c4b8f8a67e6acba7870dca7c6c31f6b0c01275"
+        },
+        "洛浦县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=d713e5ce99efe7263fe677dab3cf3892d5f69c132adff6411a851c6fafde93b8",
+            "sign": "SECa6d48164f847f9dc7491751e12c4b8f8a67e6acba7870dca7c6c31f6b0c01275"
+        },
+        "策勒县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=d713e5ce99efe7263fe677dab3cf3892d5f69c132adff6411a851c6fafde93b8",
+            "sign": "SECa6d48164f847f9dc7491751e12c4b8f8a67e6acba7870dca7c6c31f6b0c01275"
+        }
+    },
+    "国网新疆阿克苏供电有...": {
+        "阿克苏市": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=5ed4505fe4a62c52a2c102bf172bf1492ea123e76576e41fdbaeaff4c203eb66",
+            "sign": "SEC957b9e1c2d707305a0c922d9606b7e81003f4ca3307a71db9dd318f0de401d14"
+        },
+        "库车市": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=5ed4505fe4a62c52a2c102bf172bf1492ea123e76576e41fdbaeaff4c203eb66",
+            "sign": "SEC957b9e1c2d707305a0c922d9606b7e81003f4ca3307a71db9dd318f0de401d14"
+        },
+        "温宿县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=5ed4505fe4a62c52a2c102bf172bf1492ea123e76576e41fdbaeaff4c203eb66",
+            "sign": "SEC957b9e1c2d707305a0c922d9606b7e81003f4ca3307a71db9dd318f0de401d14"
+        },
+        "阿瓦提县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=5ed4505fe4a62c52a2c102bf172bf1492ea123e76576e41fdbaeaff4c203eb66",
+            "sign": "SEC957b9e1c2d707305a0c922d9606b7e81003f4ca3307a71db9dd318f0de401d14"
+        },
+        "乌什县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=5ed4505fe4a62c52a2c102bf172bf1492ea123e76576e41fdbaeaff4c203eb66",
+            "sign": "SEC957b9e1c2d707305a0c922d9606b7e81003f4ca3307a71db9dd318f0de401d14"
+        },
+        "柯坪县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=5ed4505fe4a62c52a2c102bf172bf1492ea123e76576e41fdbaeaff4c203eb66",
+            "sign": "SEC957b9e1c2d707305a0c922d9606b7e81003f4ca3307a71db9dd318f0de401d14"
+        },
+        "拜城县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=5ed4505fe4a62c52a2c102bf172bf1492ea123e76576e41fdbaeaff4c203eb66",
+            "sign": "SEC957b9e1c2d707305a0c922d9606b7e81003f4ca3307a71db9dd318f0de401d14"
+        },
+        "库车县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=5ed4505fe4a62c52a2c102bf172bf1492ea123e76576e41fdbaeaff4c203eb66",
+            "sign": "SEC957b9e1c2d707305a0c922d9606b7e81003f4ca3307a71db9dd318f0de401d14"
+        },
+        "新和县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=5ed4505fe4a62c52a2c102bf172bf1492ea123e76576e41fdbaeaff4c203eb66",
+            "sign": "SEC957b9e1c2d707305a0c922d9606b7e81003f4ca3307a71db9dd318f0de401d14"
+        },
+        "沙雅县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=5ed4505fe4a62c52a2c102bf172bf1492ea123e76576e41fdbaeaff4c203eb66",
+            "sign": "SEC957b9e1c2d707305a0c922d9606b7e81003f4ca3307a71db9dd318f0de401d14"
+        }
+    },
+    "国网新疆疆南供电有限...": {
+        "喀什市": {
+            "mobiles": [
+                "15309985991",
+                "15309985033"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=c9bf7d79a75db60538ad62c96df1e141f4b04b40df6d1cd1d50c3b9d6b53bff7",
+            "sign": "SEC12b31e6aa25abff3459bd444f5dfaa4be99fbc9c2de8dcf5454bffe6cfbc89e7"
+        },
+        "疏勒县": {
+            "mobiles": [
+                "15309985075",
+                "18009982952"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=c9bf7d79a75db60538ad62c96df1e141f4b04b40df6d1cd1d50c3b9d6b53bff7",
+            "sign": "SEC12b31e6aa25abff3459bd444f5dfaa4be99fbc9c2de8dcf5454bffe6cfbc89e7"
+        },
+        "疏附县": {
+            "mobiles": [
+                "15309985018",
+                "19909984232"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=c9bf7d79a75db60538ad62c96df1e141f4b04b40df6d1cd1d50c3b9d6b53bff7",
+            "sign": "SEC12b31e6aa25abff3459bd444f5dfaa4be99fbc9c2de8dcf5454bffe6cfbc89e7"
+        },
+        "莎车县": {
+            "mobiles": [
+                "15352588872",
+                "13309982129"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=c9bf7d79a75db60538ad62c96df1e141f4b04b40df6d1cd1d50c3b9d6b53bff7",
+            "sign": "SEC12b31e6aa25abff3459bd444f5dfaa4be99fbc9c2de8dcf5454bffe6cfbc89e7"
+        },
+        "泽普县": {
+            "mobiles": [
+                "18099536363",
+                "18160446621"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=c9bf7d79a75db60538ad62c96df1e141f4b04b40df6d1cd1d50c3b9d6b53bff7",
+            "sign": "SEC12b31e6aa25abff3459bd444f5dfaa4be99fbc9c2de8dcf5454bffe6cfbc89e7"
+        },
+        "叶城县": {
+            "mobiles": [
+                "15309985067",
+                "15379333434"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=c9bf7d79a75db60538ad62c96df1e141f4b04b40df6d1cd1d50c3b9d6b53bff7",
+            "sign": "SEC12b31e6aa25abff3459bd444f5dfaa4be99fbc9c2de8dcf5454bffe6cfbc89e7"
+        },
+        "麦盖提县": {
+            "mobiles": [
+                "15352588878",
+                "15001465563"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=c9bf7d79a75db60538ad62c96df1e141f4b04b40df6d1cd1d50c3b9d6b53bff7",
+            "sign": "SEC12b31e6aa25abff3459bd444f5dfaa4be99fbc9c2de8dcf5454bffe6cfbc89e7"
+        },
+        "伽师县": {
+            "mobiles": [
+                "15309985037",
+                "19945866670"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=c9bf7d79a75db60538ad62c96df1e141f4b04b40df6d1cd1d50c3b9d6b53bff7",
+            "sign": "SEC12b31e6aa25abff3459bd444f5dfaa4be99fbc9c2de8dcf5454bffe6cfbc89e7"
+        },
+        "英吉沙县": {
+            "mobiles": [
+                "15309985036",
+                "15384985331"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=c9bf7d79a75db60538ad62c96df1e141f4b04b40df6d1cd1d50c3b9d6b53bff7",
+            "sign": "SEC12b31e6aa25abff3459bd444f5dfaa4be99fbc9c2de8dcf5454bffe6cfbc89e7"
+        },
+        "岳普湖县": {
+            "mobiles": [
+                "13399783857",
+                "13379756081"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=c9bf7d79a75db60538ad62c96df1e141f4b04b40df6d1cd1d50c3b9d6b53bff7",
+            "sign": "SEC12b31e6aa25abff3459bd444f5dfaa4be99fbc9c2de8dcf5454bffe6cfbc89e7"
+        },
+        "塔什库尔干县": {
+            "mobiles": [
+                "15389977200",
+                "18109981138"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=c9bf7d79a75db60538ad62c96df1e141f4b04b40df6d1cd1d50c3b9d6b53bff7",
+            "sign": "SEC12b31e6aa25abff3459bd444f5dfaa4be99fbc9c2de8dcf5454bffe6cfbc89e7"
+        },
+        "巴楚县": {
+            "mobiles": [
+                "13399783611",
+                "18160327183"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=c9bf7d79a75db60538ad62c96df1e141f4b04b40df6d1cd1d50c3b9d6b53bff7",
+            "sign": "SEC12b31e6aa25abff3459bd444f5dfaa4be99fbc9c2de8dcf5454bffe6cfbc89e7"
+        },
+        "图木舒克市": {
+            "mobiles": [
+                "15352588876",
+                "13199731097"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=c9bf7d79a75db60538ad62c96df1e141f4b04b40df6d1cd1d50c3b9d6b53bff7",
+            "sign": "SEC12b31e6aa25abff3459bd444f5dfaa4be99fbc9c2de8dcf5454bffe6cfbc89e7"
+        },
+        "阿图什市": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=b3aacbc8ecc4281baf2cc17f8ff7a16010cebd7d2ace05d6187472510ab250ab",
+            "sign": "SECe24bf496fb29b00c158c93f3d6d8a6b85915bdf745d726fdf1c8a51cee64451f"
+        },
+        "阿克陶县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=b3aacbc8ecc4281baf2cc17f8ff7a16010cebd7d2ace05d6187472510ab250ab",
+            "sign": "SECe24bf496fb29b00c158c93f3d6d8a6b85915bdf745d726fdf1c8a51cee64451f"
+        },
+        "阿合奇县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=b3aacbc8ecc4281baf2cc17f8ff7a16010cebd7d2ace05d6187472510ab250ab",
+            "sign": "SECe24bf496fb29b00c158c93f3d6d8a6b85915bdf745d726fdf1c8a51cee64451f"
+        },
+        "乌恰县": {
+            "mobiles": [
+                "139xxxxxxxx"
+            ],
+            "webhook": "https://oapi.dingtalk.com/robot/send?access_token=b3aacbc8ecc4281baf2cc17f8ff7a16010cebd7d2ace05d6187472510ab250ab",
+            "sign": "SECe24bf496fb29b00c158c93f3d6d8a6b85915bdf745d726fdf1c8a51cee64451f"
+        }
+    }
+}

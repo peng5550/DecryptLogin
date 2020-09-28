@@ -1,0 +1,74 @@
+{
+  "乌鲁木齐": [
+    "SECfbe6263f4baab9917d0fffdaf786cbcf91b5f06e4ec367167380da42d4d06044",
+    "https://oapi.dingtalk.com/robot/send?access_token=6465a5be41b6e5437ac64d8062e374377fd91076ffe9d57b4dfacd32230ebf82"
+  ],
+  "昌吉": [
+    "SEC046587df1ccd4df1724d6942699bd6fa83937d3e7b0f262c3e3b5ce58b94f5c2",
+    "https://oapi.dingtalk.com/robot/send?access_token=f08278fcb76fe4e8b24e6357c1a50b25a0e9056362c9b817e372eb7631b69bf9"
+  ],
+  "吐鲁番": [
+    "SECb8bebd7b67c2a412d5d1a93e6726b9e91f86dd1b81ef433d0ab0380f3605e0e6",
+    "https://oapi.dingtalk.com/robot/send?access_token=ddb0d3faa67e650cb64635cf920a93126eb0c16c3ae2c9399de0f925cd888660"
+  ],
+  "奎屯": [
+    "SECb5ac024107ba184a6a10137559dcc79886933ef0f882bb28fca1773eb3340216",
+    "https://oapi.dingtalk.com/robot/send?access_token=4dde3521f005b2623c8cff097f53630fd824a5bee09ed397a0c82192226d8e73"
+  ],
+  "博尔塔拉": [
+    "SECfffd0424133527e1e311cd8c0a37644f865c024dde213bb18d69a351e03d81f0",
+    "https://oapi.dingtalk.com/robot/send?access_token=c938dc47f99d91f14ac7c291875a7bd21dbc392da8b2f4024b12cf03cff10d2c"
+  ],
+  "博州": [
+    "SECfffd0424133527e1e311cd8c0a37644f865c024dde213bb18d69a351e03d81f0",
+    "https://oapi.dingtalk.com/robot/send?access_token=c938dc47f99d91f14ac7c291875a7bd21dbc392da8b2f4024b12cf03cff10d2c"
+  ],
+  "哈密": [
+    "SECe12846b83ad9928a64fcc309b98abfdb10bfd580e1694c52fa7a5d3489d57caf",
+    "https://oapi.dingtalk.com/robot/send?access_token=4bfb4497154c4eaacf52fa6da29be2e7a5c7065bbd5afcac7a9aa28d806deeb8"
+  ],
+  "塔城": [
+    "SEC3a4adb8aa9dc52daa8cc412c675e073ffe2f4247d01eef3f4d5535be10574af7",
+    "https://oapi.dingtalk.com/robot/send?access_token=b34c42d6124bd83e8347d9eaf95553b9a003d347b0847fdc5b58cab9cfbf5f14"
+  ],
+  "阿勒泰": [
+    "SEC411cbe0e4aee65d94496818043b4def057d4aff4774f92663482f6e3f1536a93",
+    "https://oapi.dingtalk.com/robot/send?access_token=abd246c769c9a1922ec15e586df79818990b956ca1a7c98fa0d6f4aea1fd6729"
+  ],
+  "伊犁": [
+    "SECf826709306fa5d7b528fe0bb6be0236071a738b470c9be6a0ba0dcd4959851d0",
+    "https://oapi.dingtalk.com/robot/send?access_token=e3a8da4bdf2180196e8f83956079cab462f040573c3ce6aed6939e4763423867"
+  ],
+  "巴州": [
+    "SECacb77dbf1f5ccaf72a088996bd2684e7fac21ea73c5a05c7e02131f2bd253c34",
+    "https://oapi.dingtalk.com/robot/send?access_token=ae6b5d9a75d5aa087dcd5964c9e2a8cd845165cc9af9e294fb63401fff451674"
+  ],
+  "和田": [
+    "SEC01dcace8653cfd797950364d5a7db63852cc9abe97404af8f129934cd4847644",
+    "https://oapi.dingtalk.com/robot/send?access_token=552e164bdd292d94023ffe215696b5f095a77b0ad8b70f928937d55373bc965e"
+  ],
+  "阿克苏": [
+    "SECc2acbca295ce09849a4d0a4799764dc0e413bc845dcbf8ac36d3d9eda416cca0",
+    "https://oapi.dingtalk.com/robot/send?access_token=0575e4c4ead47a4f8050dde1f1e1a153edf38424057e034f842bbb1c80fca4cb"
+  ],
+  "喀什": [
+    "SECb57384896e04906616193a108d932685eaa4dda90ea916f35c9dff68d7f9e4dd",
+    "https://oapi.dingtalk.com/robot/send?access_token=aba118c4bdb5f7527e27b9c921824f39a8f96cf66c0d5928a1bb77e82cba157b"
+  ],
+  "石河子": [
+    "SECe44b9cda7d0d6d58c6588b9b4a47522fe8dd005ecf1707a9030002b04071af4a",
+    "https://oapi.dingtalk.com/robot/send?access_token=06b0d47c95f744182884eff9a7ba86cd394426446602753edd007373bbd6b638"
+  ],
+  "克州": [
+    "SECa5dedbb611d7b6387716c8780b4f0f391ac5a53ffffd12208781720720b3367d",
+    "https://oapi.dingtalk.com/robot/send?access_token=b602b723ef41d36e36325f4f40d839c47bf6d0798b69dadf2bcdafa145687f23"
+  ],
+  "克拉玛依": [
+    "SECed2354773f029acbd4b8383af013ce512fe03131d90f295eda7329a5daabc6c3",
+    "https://oapi.dingtalk.com/robot/send?access_token=628e9836de97021ca1dc3c75548ce6e3482cc8bf2a75b5a35ad4dc9a832bfea1"
+  ],
+  "长途传输局": [
+    "SECfbe6263f4baab9917d0fffdaf786cbcf91b5f06e4ec367167380da42d4d06044",
+    "https://oapi.dingtalk.com/robot/send?access_token=6465a5be41b6e5437ac64d8062e374377fd91076ffe9d57b4dfacd32230ebf82"
+  ]
+}

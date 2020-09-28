@@ -1,0 +1,570 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+<html>
+<head>
+    <title>CEM工单报表</title>
+
+
+
+
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE9" />
+
+<link href="/bpm/styles/default/css/Aqua/css/ligerui-all.css" rel="stylesheet" type="text/css">
+<link title="index" name="styleTag" rel="stylesheet" type="text/css" href="/bpm/styles/default/css/web.css"/>
+<script type="text/javascript" src="/bpm/js/dynamic.jsp"></script>
+<script type="text/javascript" src="/bpm/js/jquery/jquery.min.js"></script>
+<script type="text/javascript" src="/bpm/js/util/util.js?ver=1002"></script>
+<script type="text/javascript" src="/bpm/js/util/form.js"></script>
+<script type="text/javascript" src="/bpm/js/lg/ligerui.min.js"></script>
+<script type="text/javascript" src="/bpm/js/ffcs/displaytag.js" ></script>
+<script type="text/javascript" src="/bpm/js/lg/plugins/ligerDialog.js" ></script>
+<script type="text/javascript" src="/bpm/js/calendar/My97DatePicker/WdatePicker.js"></script>
+
+
+<script type="text/javascript" src="/bpm/js/lg/plugins/ligerMsg.js"></script>
+
+
+
+<script type="text/javascript" src="/bpm/js/util/common.js" ></script>
+
+
+
+    <script type="text/javascript"
+            src="/bpm/js/lg/plugins/ligerComboBox.js"></script>
+    <script type="text/javascript" src="/bpm/js/lg/plugins/expDicCombo.js"></script>
+    <script type="text/javascript"
+            src="/bpm/js/tree/v30/jquery.ztree.core-3.0.min.js"></script>
+    <script type="text/javascript"
+            src="/bpm/js/ffcs/platform/system/SysDialog.js?version=010"></script>
+    <link href="/bpm/js/tree/v30/zTreeStyle.css" rel="stylesheet"
+          type="text/css"/>
+    <link
+            href="/bpm/metronic/assets/global/plugins/bootstrap/css/bootstrap.min.css"
+            rel="stylesheet" type="text/css"/>
+    <link
+            href="/bpm/metronic/assets/global/plugins/font-awesome/css/font-awesome.min.css"
+            rel="stylesheet" type="text/css"/>
+    <link href="/bpm/metronic/assets/global/css/components.min.css"
+          rel="stylesheet" id="style_components" type="text/css"/>
+    <link href="/bpm/styles/custom.css" rel="stylesheet" type="text/css"/>
+
+</head>
+<body>
+<div class="panel">
+    <div class="panel-top">
+        <div class="panel-search">
+            <form id="searchForm" method="post" action="warnCemReport.ht">
+                <div class="row">
+
+
+                    <div class="col-md-3 col-sm-3 col-xs-3">
+                        <div class="input-group">
+                            <span class="input-group-addon custom-addon">工单号：</span>
+                            <input type="text"
+                                   name="Q_sheetNo_S"
+                                   class="inputText form-control"
+                                   value=""/>
+                        </div>
+                    </div>
+
+                       <div class="col-md-3 col-sm-3 col-xs-3">
+                           <div class="input-group">
+                               <span class="input-group-addon custom-addon">
+                                   工单状态
+                               </span>
+                               <select name="Q_statusesStr_S" class="form-control">
+                                   <option value="01,02,03,04" selected>全部</option>
+                                   <option value="01,02,03" >在途</option>
+                                   <option value="04" >完成</option>
+                               </select>
+                           </div>
+                       </div>
+                    <div class="col-md-3 col-sm-3 col-xs-3">
+                        <div class="input-group">
+                            <span class="input-group-addon custom-addon">开始派单时间：</span>
+                            <input name="Q_beginStartTime_DL" id="Q_beginStartTime_DL"
+                                   value=""
+                                   class="inputText Wdate custom-control"
+                                   onclick="WdatePicker({dateFmt:'yyyy-MM-dd',alwaysUseStartDate:true})" readonly/>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-3 col-xs-3">
+                        <div class="input-group">
+                            <span class="input-group-addon custom-addon">结束派单时间：</span>
+                            <input name="Q_endStartTime_DG" id="Q_endStartTime_DG"
+                                   value=""
+                                   class="inputText Wdate custom-control"
+                                   onclick="WdatePicker({dateFmt:'yyyy-MM-dd'})" readonly/>
+                        </div>
+                    </div>
+
+
+                </div>
+                <div class="row">
+
+                    <div class="col-md-3 col-sm-3 col-xs-3">
+                        <div class="input-group">
+                            <span class="input-group-addon custom-addon">工单类型：</span>
+                            <input id="sheetType" name="sheetType" class="dicCombo" value=""
+                                   valueFieldID="Q_sheetType_S" nodekey="cemgzlx" default="true"
+                                   defaultValue="0"/>
+                            <input id="Q_sheetType_S" type="hidden" name="Q_sheetType_S"
+                                   value=""/>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-3 col-xs-3">
+
+                        <div class="input-group">
+                            <span class="input-group-addon custom-addon">本地网：</span>
+                            <input id="areaCode" name="areaCode" class="dicCombo" value=""
+                                   valueFieldID="Q_areaCode_S" nodekey="bdwbm" default="true"
+                                   defaultValue="0" />
+                            <input id="Q_areaCode_S" type="hidden" name="Q_areaCode_S"
+                                   value=""/>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-3 col-xs-3">
+                        <div class="input-group">
+                            <span class="input-group-addon custom-addon">故障类型：</span>
+                            <input id="faultType" name="faultType" class="dicCombo"  value=""
+                                   valueFieldID="Q_faultType_L" nodekey="sngzlx" default="true" defaultValue="0" defaultName="全部" />
+                            <input type="hidden" id="Q_faultTypeL name="Q_faultType_L" value=""/>
+                        </div>
+                    </div>
+                    <div class="div_button col-md-3 col-sm-12" style="float:right;">
+                        <label class="pull-right">
+                            <a class="btn green custom-search link search" id="btnSearch"><i class="fa fa-search"></i>查询</a>
+                        </label>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+    <div class="panel-body portlet box lightGreen">
+        <div class="portlet-title">
+
+        </div>
+        <div class="portlet-body">
+
+
+            <div class='panel-table'>
+<table id="warnCemOne" cellpadding="1" class="table table-striped table-bordered table-hover custom-table table-list" cellspacing="1">
+<thead>
+<tr>
+<th>工单号</th>
+<th>工单类型</th>
+<th>故障类型</th>
+<th>本地网</th>
+<th>派单时间</th>
+<th>接单时间</th>
+<th>回单时间</th>
+<th>第一次回单时间</th>
+<th>传输局转派时间</th>
+<th>第一次是否及时回单</th>
+<th>接单人</th>
+<th>处理时限（小时）</th>
+<th>回单人</th>
+<th>是否及时接单</th>
+<th>是否及时回单</th>
+<th>接单时限（分钟）</th>
+<th>回单超时（分钟）</th>
+<th>回单内容</th>
+<th>接单岗位</th></tr></thead>
+<tbody>
+<tr class="odd">
+<td class="major">KD202007211200002574</td>
+<td>新容量工单</td>
+<td>质差光缆（容量类）</td>
+<td>和田</td>
+<td>
+                    2020-07-21 12:00:00
+                </td>
+<td>
+
+                </td>
+<td>
+
+                </td>
+<td>
+
+                </td>
+<td>
+
+                </td>
+<td></td>
+<td></td>
+<td>336:00</td>
+<td></td>
+<td></td>
+<td></td>
+<td>15</td>
+<td></td>
+<td></td>
+<td>客户响应调度岗</td></tr>
+<tr class="even">
+<td class="major">KD202007210831015807</td>
+<td>容量预警</td>
+<td>链路容量（预警单）OLT</td>
+<td>昌吉州</td>
+<td>
+                    2020-07-21 08:31:01
+                </td>
+<td>
+                    2020-07-21 11:27:11
+                </td>
+<td>
+
+                </td>
+<td>
+
+                </td>
+<td>
+
+                </td>
+<td></td>
+<td>徐环</td>
+<td>336:00</td>
+<td></td>
+<td>否</td>
+<td></td>
+<td>15</td>
+<td></td>
+<td></td>
+<td>视频宽带室</td></tr>
+<tr class="odd">
+<td class="major">KD202007210831017895</td>
+<td>容量预警</td>
+<td>链路容量（预警单）OLT</td>
+<td>伊犁</td>
+<td>
+                    2020-07-21 08:31:01
+                </td>
+<td>
+                    2020-07-21 11:27:27
+                </td>
+<td>
+
+                </td>
+<td>
+
+                </td>
+<td>
+
+                </td>
+<td></td>
+<td>徐环</td>
+<td>336:00</td>
+<td></td>
+<td>否</td>
+<td></td>
+<td>15</td>
+<td></td>
+<td></td>
+<td>视频宽带室</td></tr>
+<tr class="even">
+<td class="major">KD202007210831004705</td>
+<td>容量预警</td>
+<td>链路容量（预警单）OLT</td>
+<td>巴州</td>
+<td>
+                    2020-07-21 08:31:00
+                </td>
+<td>
+
+                </td>
+<td>
+
+                </td>
+<td>
+
+                </td>
+<td>
+
+                </td>
+<td></td>
+<td>木拉提.卡山</td>
+<td>336:00</td>
+<td></td>
+<td></td>
+<td></td>
+<td>15</td>
+<td></td>
+<td></td>
+<td>视频宽带室</td></tr>
+<tr class="odd">
+<td class="major">KD202007210831009485</td>
+<td>容量预警</td>
+<td>链路容量（预警单）OLT</td>
+<td>伊犁</td>
+<td>
+                    2020-07-21 08:31:00
+                </td>
+<td>
+                    2020-07-21 11:27:43
+                </td>
+<td>
+
+                </td>
+<td>
+
+                </td>
+<td>
+
+                </td>
+<td></td>
+<td>徐环</td>
+<td>336:00</td>
+<td></td>
+<td>否</td>
+<td></td>
+<td>15</td>
+<td></td>
+<td></td>
+<td>视频宽带室</td></tr>
+<tr class="even">
+<td class="major">KD202007210831000918</td>
+<td>容量预警</td>
+<td>链路容量（预警单）OLT</td>
+<td>阿克苏</td>
+<td>
+                    2020-07-21 08:31:00
+                </td>
+<td>
+
+                </td>
+<td>
+
+                </td>
+<td>
+
+                </td>
+<td>
+
+                </td>
+<td></td>
+<td>木拉提.卡山</td>
+<td>336:00</td>
+<td></td>
+<td></td>
+<td></td>
+<td>15</td>
+<td></td>
+<td></td>
+<td>视频宽带室</td></tr>
+<tr class="odd">
+<td class="major">KD202007210830599554</td>
+<td>容量预警</td>
+<td>链路容量（预警单）OLT</td>
+<td>昌吉州</td>
+<td>
+                    2020-07-21 08:30:59
+                </td>
+<td>
+                    2020-07-21 11:27:58
+                </td>
+<td>
+
+                </td>
+<td>
+
+                </td>
+<td>
+
+                </td>
+<td></td>
+<td>徐环</td>
+<td>336:00</td>
+<td></td>
+<td>否</td>
+<td></td>
+<td>15</td>
+<td></td>
+<td></td>
+<td>视频宽带室</td></tr>
+<tr class="even">
+<td class="major">KD202007210830595922</td>
+<td>容量预警</td>
+<td>链路容量（预警单）OLT</td>
+<td>和田</td>
+<td>
+                    2020-07-21 08:30:59
+                </td>
+<td>
+
+                </td>
+<td>
+
+                </td>
+<td>
+
+                </td>
+<td>
+
+                </td>
+<td></td>
+<td>木拉提.卡山</td>
+<td>336:00</td>
+<td></td>
+<td></td>
+<td></td>
+<td>15</td>
+<td></td>
+<td></td>
+<td>视频宽带室</td></tr>
+<tr class="odd">
+<td class="major">KD202007210830593226</td>
+<td>容量预警</td>
+<td>链路容量（预警单）OLT</td>
+<td>昌吉州</td>
+<td>
+                    2020-07-21 08:30:59
+                </td>
+<td>
+                    2020-07-21 11:28:18
+                </td>
+<td>
+
+                </td>
+<td>
+
+                </td>
+<td>
+
+                </td>
+<td></td>
+<td>徐环</td>
+<td>336:00</td>
+<td></td>
+<td>否</td>
+<td></td>
+<td>15</td>
+<td></td>
+<td></td>
+<td>视频宽带室</td></tr>
+<tr class="even">
+<td class="major">KD202007210830582176</td>
+<td>容量预警</td>
+<td>链路容量（预警单）OLT</td>
+<td>和田</td>
+<td>
+                    2020-07-21 08:30:58
+                </td>
+<td>
+
+                </td>
+<td>
+
+                </td>
+<td>
+
+                </td>
+<td>
+
+                </td>
+<td></td>
+<td>木拉提.卡山</td>
+<td>336:00</td>
+<td></td>
+<td></td>
+<td></td>
+<td>15</td>
+<td></td>
+<td></td>
+<td>视频宽带室</td></tr></tbody></table><div class="area-export"><div class="exportlinks" id="divExportAll">导出: <input type="checkbox" onclick="exportAllCheckChange(this);" name="_exportAll" />全部&nbsp;
+<a href="warnCemReport.ht?tableId_=d-2731659-&amp;d-2731659-e=1&amp;6578706f7274=1"><span class="export csv">CSV </span></a>|
+<a href="warnCemReport.ht?tableId_=d-2731659-&amp;d-2731659-e=2&amp;6578706f7274=1"><span class="export excel">Excel </span></a>|
+<a href="warnCemReport.ht?tableId_=d-2731659-&amp;d-2731659-e=3&amp;6578706f7274=1"><span class="export xml">XML </span></a></div></div></div>
+            <div class="panel-page">
+    <div class="l-panel-bbar-inner">
+            <div class="l-bar-group">
+                <span class="l-bar-text">共 123502项/显示1到10项</span>
+            </div>
+        <div class="l-bar-separator"></div>
+        <div class="l-bar-group">
+            <div class="l-bar-button l-bar-btnfirst">
+                <a href="#" onclick="first('d-2731659-')" title="首页">
+                    <span class=""></span>
+                </a>
+            </div>
+            <div class="l-bar-button l-bar-btnprev">
+                <a href="#" onclick="previous('d-2731659-');" title="上一页">
+                    <span class=""></span>
+                </a>
+            </div>
+        </div>
+        <div class="l-bar-group">
+            <div class="l-bar-button l-bar-btnnext">
+                <a href="#" onclick="next('d-2731659-')" title="下一页">
+                    <span></span>
+                </a>
+            </div>
+            <div class="l-bar-button l-bar-btnlast">
+                <a href="#" onclick="last('d-2731659-')" title="尾页">
+                    <span></span>
+                </a>
+            </div>
+        </div>
+        <div class="l-bar-separator"></div>
+
+        <div class="l-bar-group">
+			<span class="pcontrol">
+				当前<input size="10" value="1" style="width: 20px;text-align:center" maxlength="10"
+                         class="inputText" type="text" id="navNumd-2731659-" name="navNum"/>
+                / <span>12351</span>
+				页
+			</span>
+        </div>
+        <div class="l-bar-group">
+			<span>
+				<input type="button" id="btnGo" value="Go" onclick="jumpTo('d-2731659-');"/>
+			</span>
+        </div>
+
+        <div class="l-bar-separator"></div>
+        <div class="l-bar-group l-bar-selectpagesize">
+            <select id="pageSize" name="pageSize" onchange="changePageSize(this,'d-2731659-');"
+                    class="select_short">
+                <option value="5" >5</option>
+                <option value="10"  selected="selected" >10</option>
+                <option value="15" >15</option>
+                <option value="20" >20</option>
+                <option value="50" >50</option>
+                <option value="100" >100</option>
+            </select>
+        </div>
+        <div class="l-bar-separator"></div>
+        <div class="l-bar-group">
+            <div class="l-bar-button l-bar-btnload">
+                <a href="javascript:window.location.reload()">
+                    <span class=""></span>
+                </a>
+            </div>
+        </div>
+        <div class="l-bar-separator"></div>
+        <input type="hidden" id="currentPaged-2731659-" name="currentPage" value="1"/>
+        <input type="hidden" id="totalPaged-2731659-" name="totalPage" value="12351"/>
+        <input type="hidden" id="oldPageSized-2731659-" name="oldPageSize" value="10"/>
+        <a id="_navd-2731659-" href="/bpm/maintain/warn/warnSheet/warnCemReport.ht" style="display:none"></a>
+    </div>
+</div>
+
+
+        </div>
+
+    </div>
+
+    <!-- end of panel-body -->
+</div>
+<!-- end of panel -->
+</body>
+
+</html>
+
+

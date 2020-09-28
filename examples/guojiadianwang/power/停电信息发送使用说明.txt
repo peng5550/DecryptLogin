@@ -1,0 +1,32 @@
+
+项目环境搭建：
+- python3.6以上
+- selenium
+- requests
+- 火狐浏览器
+- 火狐浏览器driver
+
+
+项目文件说明
+- cityInfo.json/dingdingRobotInfo.json
+    1.钉钉机器人配置信息
+        a.mobiles：发送信息@用户的手机号
+        b.webhook：机器人webhook
+        c.sign：机器人sign
+
+- geckodriver.exe
+    1.火狐浏览器driver
+
+- logCls.py
+    1.项目日志模块
+
+- power.bat
+    1.启动项目bat文件
+
+powerCutSearch.py
+    1.项目主文件
+    2.停电信息查询
+    cityList = ["乌鲁木齐供电公司", "国网昌吉供电公司", "国网吐鲁番供电公司", "国网新疆电力公司奎屯...", "国网博尔塔拉供电公司",
+                "国网哈密供电公司", "国网新疆塔城供电有限...", "国网新疆阿勒泰供电有...", "国网新疆电力公司伊犁...",
+                "国网新疆巴州供电有限...", "国网和田供电公司", "国网新疆阿克苏供电有...", "国网新疆疆南供电有限..."]
+

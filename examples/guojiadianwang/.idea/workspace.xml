@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6b1e9ad-7022-4ae1-9041-fff3d51b2651" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ep3Yl1RZXTO7m4kpGT7ZnKKOD5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../pro_hydrojl" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ppp\Desktop\Project\DecryptLogin-master\examples\guojiadianwang\power" />
+      <recent name="C:\Users\ppp\Desktop\Project\DecryptLogin-master\examples\guojiadianwang\devops\datas" />
+      <recent name="C:\Users\ppp\Desktop\Project\DecryptLogin-master\examples\guojiadianwang\devops\utils" />
+      <recent name="C:\Users\ppp\Desktop\Project\DecryptLogin-master\examples\guojiadianwang\pdweb\utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ppp\Desktop\Project\DecryptLogin-master\examples\guojiadianwang\devops" />
+      <recent name="C:\Users\ppp\Desktop\Project\DecryptLogin-master\examples\guojiadianwang\devops\utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.powerCutSearch (1)">
+    <configuration name="乌鲁木齐—单体电池电压过低.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/guojiadianwang/devops/datas/乌鲁木齐—单体电池电压过低.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="guojiadianwang" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="powerCutSearch (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="guojiadianwang" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/power" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/power/powerCutSearch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="powerCutSearch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="guojiadianwang" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\ppp\Desktop\Project\DecryptLogin-master\examples\guojiadianwang\power\powerCutSearch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sendMessage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="guojiadianwang" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/devops/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/devops/utils/sendMessage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.powerCutSearch (1)" />
+        <item itemvalue="Python.powerCutSearch" />
+        <item itemvalue="Python.demo" />
+        <item itemvalue="JavaScript Debug.乌鲁木齐—单体电池电压过低.html" />
+        <item itemvalue="Python.sendMessage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6b1e9ad-7022-4ae1-9041-fff3d51b2651" name="Default Changelist" comment="" />
+      <created>1595004757105</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595004757105</updated>
+      <workItem from="1595004759685" duration="923000" />
+      <workItem from="1595037458852" duration="18541000" />
+      <workItem from="1595081975502" duration="3925000" />
+      <workItem from="1595131606174" duration="17583000" />
+      <workItem from="1595162967451" duration="186000" />
+      <workItem from="1595228300424" duration="7298000" />
+      <workItem from="1595309563055" duration="872000" />
+      <workItem from="1595313954134" duration="23034000" />
+      <workItem from="1595400910318" duration="15957000" />
+      <workItem from="1595428582244" duration="31000" />
+      <workItem from="1595487239750" duration="4642000" />
+      <workItem from="1595508711216" duration="338000" />
+      <workItem from="1595553485326" duration="273000" />
+      <workItem from="1595574312596" duration="2056000" />
+      <workItem from="1595660588853" duration="302000" />
+      <workItem from="1595739451802" duration="3097000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="697" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595315632801">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="697" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1595315632801" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1595407726979">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595407726979" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1595742390150">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1595742390150" />
+    <state width="1877" height="573" key="GridCell.Tab.0.bottom" timestamp="1595747472292">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="573" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595747472292" />
+    <state width="1877" height="573" key="GridCell.Tab.0.center" timestamp="1595747472292">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="573" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595747472292" />
+    <state width="1877" height="573" key="GridCell.Tab.0.left" timestamp="1595747472292">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="573" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595747472292" />
+    <state width="1877" height="573" key="GridCell.Tab.0.right" timestamp="1595747472292">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="573" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595747472292" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1595159439359">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595159439359" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1595159439359">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595159439359" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1595159439359">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595159439359" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1595159439359">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595159439359" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1595428610456">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1595428610456" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1595553485473">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595553485473" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1595325394759">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1595325394759" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/guojiadianwang$demo__1_.coverage" NAME="demo (1) Coverage Results" MODIFIED="1595408141382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/utils" />
+    <SUITE FILE_PATH="coverage/guojiadianwang$demo.coverage" NAME="demo Coverage Results" MODIFIED="1595576241483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/guojiadianwang$sendMessage.coverage" NAME="sendMessage Coverage Results" MODIFIED="1595428086959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/utils" />
+    <SUITE FILE_PATH="coverage/guojiadianwang$logCls.coverage" NAME="logCls Coverage Results" MODIFIED="1595005306220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/guojiadianwang$chaojiying.coverage" NAME="chaojiying Coverage Results" MODIFIED="1595147705471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pdweb/utils" />
+    <SUITE FILE_PATH="coverage/guojiadianwang$htmltoimg.coverage" NAME="htmltoimg Coverage Results" MODIFIED="1595407737428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/datas" />
+    <SUITE FILE_PATH="coverage/guojiadianwang$powerCutSearch.coverage" NAME="powerCutSearch Coverage Results" MODIFIED="1595660593194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/guojiadianwang$devopsPro.coverage" NAME="devopsPro Coverage Results" MODIFIED="1595328759015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops" />
+    <SUITE FILE_PATH="coverage/guojiadianwang$loginFile.coverage" NAME="loginFile Coverage Results" MODIFIED="1595328311007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/utils" />
+    <SUITE FILE_PATH="coverage/guojiadianwang$powerCutSearch__1_.coverage" NAME="powerCutSearch (1) Coverage Results" MODIFIED="1595746976105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/power" />
+    <SUITE FILE_PATH="coverage/guojiadianwang$pytesseract.coverage" NAME="pytesseract Coverage Results" MODIFIED="1595147355004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/py/Lib/site-packages/pytesseract" />
+    <SUITE FILE_PATH="coverage/guojiadianwang$request_help.coverage" NAME="request_help Coverage Results" MODIFIED="1595323756438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../英谷教育/公司文件/pro_kaoshi/pro_kaoshi" />
+    <SUITE FILE_PATH="coverage/guojiadianwang$checkcheck.coverage" NAME="checkcheck Coverage Results" MODIFIED="1595047760358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/guojiadianwang$dataAnalysis__1_.coverage" NAME="dataAnalysis (1) Coverage Results" MODIFIED="1595426417208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/utils" />
+    <SUITE FILE_PATH="coverage/guojiadianwang$request_help__1_.coverage" NAME="request_help (1) Coverage Results" MODIFIED="1595327033244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../mytt/wechat_tt" />
+  </component>
+</project>
